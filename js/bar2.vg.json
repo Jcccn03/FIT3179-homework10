@@ -5,7 +5,7 @@
   "height": 300,
 
   "data": {
-    "url": "../data/tourist_expenditure.csv"
+    "url": "data/tourist_expenditure.csv"
   },
 
   "params": [
