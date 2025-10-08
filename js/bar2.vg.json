@@ -5,7 +5,7 @@
   "height": 300,
 
   "data": {
-    "url": "../data/tourist_expenditure.csv"
+    "url": "https://raw.githubusercontent.com/Jcccn03/FIT3179-homework10/refs/heads/master/data/tourist_expenditure.csv"
   },
 
   "params": [
